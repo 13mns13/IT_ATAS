@@ -1,0 +1,36 @@
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\Atlas of innovation.exe.config
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\Atlas of innovation.exe
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\Atlas of innovation.pdb
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\EntityFramework.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\GMap.NET.Core.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\System.Data.SQLite.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\xNet.dll
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\EntityFramework.xml
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\System.Data.SQLite.xml
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas of innovation.csprojAssemblyReference.cache
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.InputParams.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.ItemsViewSearch.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.MapPanel.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.okvd.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.PlayForm.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.ResponseItems.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.Search_OKVD.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.StartForm.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas_of_innovation.Properties.Resources.resources
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas of innovation.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas of innovation.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas of innovation.csproj.CopyComplete
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas of innovation.exe
+C:\Users\Николай\Desktop\Atlas of innovation\Atlas of innovation\obj\Debug\Atlas of innovation.pdb
